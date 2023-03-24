@@ -1,0 +1,5 @@
+spring:
+  server: 8080
+
+OAuth:
+  client_id: "scUFYsYPabPxrZgqm0seWw"
